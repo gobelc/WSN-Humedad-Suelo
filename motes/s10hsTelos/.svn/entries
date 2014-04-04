@@ -1,0 +1,76 @@
+8
+
+dir
+288
+https://iie.fing.edu.uy/svn/WiseMan/simpa/Chapicuy/snpk-salto-may2010/tos/platforms/telosb/chips/s10hsTelos
+https://iie.fing.edu.uy/svn/WiseMan
+
+
+
+2011-11-01T21:05:19.235875Z
+288
+mazzara
+
+
+svn:special svn:externals svn:needs-lock
+
+S10hsC.nc
+file
+
+
+
+
+2011-08-22T18:33:05.000000Z
+2d372ad7331f176df2db1fe26600e844
+2011-11-01T21:05:19.235875Z
+288
+mazzara
+
+Hpl10hsC.nc
+file
+
+
+
+
+2011-08-30T16:43:58.000000Z
+0e97175c50791dcd87858611a5ee6665
+2011-11-01T21:05:19.235875Z
+288
+mazzara
+
+S10hs_const.h
+file
+
+
+
+
+2011-08-11T20:38:51.000000Z
+d5b4f0456117b844af8c416790480a66
+2011-11-01T21:05:19.235875Z
+288
+mazzara
+
+S10hslogicP.nc
+file
+
+
+
+
+2011-08-11T20:36:45.000000Z
+1395500caafc1dd9cc8b7294fca445f2
+2011-11-01T21:05:19.235875Z
+288
+mazzara
+
+S10hsP.nc
+file
+
+
+
+
+2011-08-11T20:35:02.000000Z
+fb4f872ada1e26c1e7d7b97d7b84bc6c
+2011-11-01T21:05:19.235875Z
+288
+mazzara
+
